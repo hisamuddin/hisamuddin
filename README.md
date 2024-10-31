@@ -1,5 +1,5 @@
 # 💫 About Me:
-NET developer with 7 years of experience, specializing in building robust APIs and microservices. Passionate about designing scalable solutions and optimizing performance in modern web applications
+.NET developer with 7 years of experience, specializing in building robust APIs and microservices. Passionate about designing scalable solutions and optimizing performance in modern web applications
 
 
 # 💻 Tech Stack:
